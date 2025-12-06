@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Your Abhinab 👋
 
-<!--
-**abhinabbajagain/abhinabbajagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT and Network Engineering student focused on building practical knowledge in networking, systems, and IT operations. I like testing tools, optimizing systems, and solving technical issues.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work On
+- Network configuration and troubleshooting  
+- Linux (currently exploring Arch)  
+- Web deployment basics  
+- System optimization and automation basics  
+
+---
+
+## 🧠 Skills
+- Basic C Programming, Java, Python, HTML, CSS, JS, ReactJS (Currently Learning to become Fullstack Developer) 
+- Windows & Linux usage  
+- Networking fundamentals  
+- Basic problem diagnosis  
+
+---
+
+## 📚 Currently Learning
+- Operating systems  
+- Computer networking (advanced concepts)  
+- Programming logic  
+- Linux-based workflows  
+
+---
+
+## 🎯 Goals
+- Strengthen network security and system deployment skills  
+- Develop solid automation skills  
+- Grow into a professional IT/Network Engineer  
+
+---
+
+## 📩 Contacts
+Feel free to connect later (add links when ready):
+- LinkedIn  :(will add later)
+- Email : abhinabbajagain@gmail.com
+
+---
